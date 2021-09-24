@@ -11,12 +11,17 @@ public class FileThing {
 	public static void main(String[] args) throws IOException {
 		FileWriter fw=new FileWriter("cricket.txt");
 		PrintWriter out=new PrintWriter(fw);
-		out.write("Tejas");
+		out.write("d");-->100
 		out.write(10);
 		out.print("Most");
 		out.println("Used");
 		out.flush();
 		fw.close();
 	}
+
+	public static void main(String[] args){
+	java unix
+git commnad---> java 
+}
 
 }

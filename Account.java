@@ -9,7 +9,7 @@ public class Account implements Serializable {
 	transient String password="Kajal0123";
 	
 	private void writeOIbject(ObjectOutputStream os) throws Exception {
-		
+		Serialization object creation;
 	}
 }
 
